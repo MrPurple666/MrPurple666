@@ -8,6 +8,8 @@
 
 <a href="https://www.instagram.com/antonio_kirai_heiwa"> <img src="https://img.shields.io/badge/-Instagram-8e35c1?style=flat&labelColor=8e35c1&logo=instagram&logoColor=white" /></a>
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+
  
 
  # How to reach me 📫: <img align="left" width="420" height="280" src="https://media2.giphy.com/media/3ohjV5v1r6G0kfBxSw/giphy.gif?cid=82a1493bs756zperry5vzw9k02f8xwkdeo2ftcvehieop46f&rid=giphy.gifraw=true">
