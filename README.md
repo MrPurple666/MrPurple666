@@ -8,7 +8,8 @@
 
 <a href="https://www.instagram.com/antonio_kirai_heiwa"> <img src="https://img.shields.io/badge/-Instagram-8e35c1?style=flat&labelColor=8e35c1&logo=instagram&logoColor=white" /></a>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+<a href="https://github.com/MrPurple666/repositories"> <img src="(https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()" /></a>
+
 
  
 
