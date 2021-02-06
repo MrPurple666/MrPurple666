@@ -9,7 +9,7 @@ Github status
 
  
 
- # How to reach me 📫: <img align="left" width="420" height="280" src="qhttps://media2.giphy.com/media/3ohjV5v1r6G0kfBxSw/giphy.gif?cid=82a1493bs756zperry5vzw9k02f8xwkdeo2ftcvehieop46f&rid=giphy.gifraw=true">
+ # How to reach me 📫: <img align="left" width="420" height="280" src="https://media2.giphy.com/media/3ohjV5v1r6G0kfBxSw/giphy.gif?cid=82a1493bs756zperry5vzw9k02f8xwkdeo2ftcvehieop46f&rid=giphy.gifraw=true">
 
 - Let's discuss here <a href="https://t.me/rn6p_brasil"> Tulip Brazil Group</a> 
 
