@@ -17,4 +17,4 @@ Github status
 
 ![MrPurple666 github status](https://readme-stats1.MrPurple666.vercel.app/api?username=MrPurple666&show_icons=true&count_private=true&hide_border=false&title_color=8e35c1&icon_color=8e35c1&include_all_commits=true)
 
-<img src="https://64.media.tumblr.com/tumblr_mdyicdFlIb1qfqgb9o1_500.gif" width="500" height="512">
+<img src="https://64.media.tumblr.com/tumblr_mdyicdFlIb1qfqgb9o1_500.gif" width="16" height="16">
