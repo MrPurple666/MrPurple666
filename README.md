@@ -6,8 +6,6 @@
 
 <a href="https://github.com/MrPurple666"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=dark" /></a>
 
-<a href="https://www.instagram.com/antonio_kirai_heiwa"> <img src="https://img.shields.io/badge/-Instagram-8e35c1?style=flat&labelColor=8e35c1&logo=instagram&logoColor=white" /></a>
-
 <a href="https://github.com/MrPurple666/repositories"> <img src="https://img.shields.io/badge/last%20modified-today-brightgreen" /></a>
 
 
