@@ -14,7 +14,7 @@
  # How to reach me 📫: <img align="left" width="498" height="278" src="https://media1.tenor.com/images/d77bfa0dc23814e831296cf41f83927c/tenor.gif?itemid=4986698.gifraw=true">
 
 - Let's discuss here: <a href="https://t.me/rn6p_brasil"> Tulip Brazil Group</a>
-- Support group: <a href="https://t.me/bliss_tulip"> Roms Support Group</a>
+- Support group: <a href="https://t.me/MrPurple666_chat"> Roms Support Group</a>
 - Direct message: <a href="https://t.me/Mr_Purple_666"> Hoho, dm me ;)</a> 
 
 <summary>:zap: GitHub Stats</summary>
