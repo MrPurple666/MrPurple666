@@ -6,7 +6,7 @@
 
 <a href="https://github.com/MrPurple666"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=dark" /></a>
 
-<a href="https://github.com/MrPurple666/repositories"> <img src="https://img.shields.io/badge/last%20modified-today-brightgreen" /></a>
+<a href="https://github.com/MrPurple666/repositories"> <img src="https://img.shields.io/badge/last%20modified-69days ago-brightgreen" /></a>
 
 
  
