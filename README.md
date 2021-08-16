@@ -2,7 +2,6 @@
 <p align="center">
 <a href="https://github.com/MrPurple666"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=dark" /></a>
 <a href="https://github.com/MrPurple666/repositories"> <img src="https://img.shields.io/badge/last%20modified-69days ago-brightgreen" /></a>
----
 
 ---
  # How to reach me 📫: <img align="left" width="498" height="278" src="https://media1.tenor.com/images/d77bfa0dc23814e831296cf41f83927c/tenor.gif?itemid=4986698.gifraw=true">
