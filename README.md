@@ -10,8 +10,6 @@
 - Support group: <a href="https://t.me/MrPurple666_chat"> Roms Support Group</a>
 - Direct message: <a href="https://t.me/Mr_Purple_666"> Hoho, dm me ;)</a> 
 ---
-<summary>GitHub Stats:</summary>
-
 # [MrPurple666 Stats](https://github.com/MrPurple666)
 ![](https://github.com/MrPurple666/github-stats/blob/master/generated/overview.svg)
 <img src="https://64.media.tumblr.com/tumblr_mdyicdFlIb1qfqgb9o1_500.gif" width="100" height="100">
