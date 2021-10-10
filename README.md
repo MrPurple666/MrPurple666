@@ -17,10 +17,10 @@
 
 # Contact me (≧▽≦): <img align="left" width="211" height="211" src="https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/another_osomatsu.gif">
 
+
 - Let's discuss here: <a href="https://t.me/rn6p_brasil"> Tulip Brazil Group</a>
 - Support group: <a href="https://t.me/MrPurple666_chat"> Roms Support Group</a>
 - My OT group: <a href="https://t.me/MrPurple666Chat"> OT chat •-•)b </a>
-
 - Direct message: <a href="https://t.me/Mr_Purple_666"> Yooo, dm me ;)</a>
 ---
 # [MrPurple666 Stats](https://github.com/MrPurple666)
