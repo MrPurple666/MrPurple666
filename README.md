@@ -20,6 +20,7 @@
 
 - Let's discuss here: <a href="https://t.me/rn6p_brasil"> Tulip Brazil Group</a>
 - Support group: <a href="https://t.me/MrPurple666_chat"> Roms Support Group</a>
+
 - Direct message: <a href="https://t.me/Mr_Purple_666"> Yooo, dm me ;)</a>
 ---
 # [MrPurple666 Stats](https://github.com/MrPurple666)
