@@ -1,7 +1,7 @@
 ---
 <p align="center">
 <a href="https://github.com/MrPurple666"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=dark" /></a>
-<a href="https://www.android.com/android-11"> <img src="https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff" /><a/>
+<a href="https://www.android.com/android-12/"> <img src="https://img.shields.io/badge/Android%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff" /><a/>
 
 ---
 
