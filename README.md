@@ -1,7 +1,7 @@
 ---
 <p align="center">
 <a href="https://github.com/MrPurple666"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=dark" /></a>
-<a href="https://www.android.com/android-12/"> <img src="https://img.shields.io/badge/Android%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff" /><a/>
+<a href="https://www.android.com/android-12/"> <img src="https://img.shields.io/badge/Android%2013.0-3ddc84?style=flat-square&logo=android&logoColor=ffffff" /><a/>
 
 ---
 
@@ -16,12 +16,11 @@
 ---
 
 # Contact me (≧▽≦): <img align="left" width="211" height="211" src="https://raw.githubusercontent.com/MrPurple666/MrPurple666/main/another_osomatsu.gif">
-
-
-- Let's discuss here: <a href="https://t.me/rn6p_brasil"> Tulip Brazil Group</a>
-- Support group: <a href="https://t.me/MrPurple666_chat"> Roms Support Group</a>
+- Let's discuss here: <a href="https://t.me/MrPurpleProjectsChat"> My project group chat</a>
+- Support group: <a href="https://t.me/MrPurpleProjects">Projects group</a>
 
 - Direct message: <a href="https://t.me/Mr_Purple_666"> Yooo, dm me ;)</a>
+- Website: <a href="mrpurple666.github.io"> Silly Website
 ---
 # [MrPurple666 Stats](https://github.com/MrPurple666)
 ![](https://github.com/MrPurple666/github-stats/blob/master/generated/overview.svg)
