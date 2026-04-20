@@ -23,4 +23,4 @@
 - Website: <a href="mrpurple666.github.io"> Silly Website
 ---
 # [MrPurple666 Stats](https://github.com/MrPurple666)
-![](https://github.com/MrPurple666/github-stats/blob/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/MrPurple666/github-stats2/refs/heads/generated/overview.svg)
