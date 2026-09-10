@@ -4,7 +4,7 @@
 
 **Software development · Emulation · Android · Graphics**
 
-I build things to understand them — from emulated hardware to cloud applications.
+I build software across the stack — from hardware emulation to cloud applications.
 
 [![C](https://img.shields.io/badge/C-8957E5?style=flat-square&logo=c&logoColor=white)](#technologies)
 [![C++](https://img.shields.io/badge/C++-8957E5?style=flat-square&logo=cplusplus&logoColor=white)](#technologies)
